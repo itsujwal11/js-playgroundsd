@@ -1,4 +1,4 @@
-var num1 = [1,2,3,4,5];
+/* var num1 = [1,2,3,4,5];
 console.log(num1[1]);
 
 
@@ -21,3 +21,28 @@ console.log(fruit)
 
 fruit.pop()
 console.log(fruit)
+*/
+
+/* var veggies = ['onion','carrot', 'raddish'];
+
+console.log(veggies.length);
+
+console.log(veggies[0]);
+console.log(veggies[1]);
+
+for(var i=0; i<veggies.length; i++){
+    console.log(veggies[i])
+}
+    */
+
+var greeting= "howdy";
+
+console.log(greeting.length) 
+
+var greet = "hello ";
+var user = "ujwal";
+
+// console.log(greet.pop());
+console.log(greet + user);
+console.log(greet.concat(user))
+
