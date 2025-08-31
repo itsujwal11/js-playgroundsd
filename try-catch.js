@@ -18,3 +18,10 @@ an error and run the addition and code
 "my progran doesn't stop also print"
 
 */
+
+
+  function add(a, b) {
+    console.log(a + b)
+  }
+
+  add(3, "4");
