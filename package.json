@@ -1,0 +1,24 @@
+{
+  "name": "js-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsujwal11/js-playgroundsd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/itsujwal11/js-playgroundsd/issues"
+  },
+  "homepage": "https://github.com/itsujwal11/js-playgroundsd#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
